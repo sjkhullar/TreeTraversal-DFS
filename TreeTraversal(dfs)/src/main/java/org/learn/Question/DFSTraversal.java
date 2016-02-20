@@ -26,7 +26,5 @@ public class DFSTraversal {
 		inOrder(root.left);
 		System.out.printf("%d ", root.data);
 		inOrder(root.right);
-	}
-	
-	
+	}	
 }
